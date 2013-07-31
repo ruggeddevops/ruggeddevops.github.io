@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Rugged DevOps]]></title>
-  <link href="http://ruggeddevops.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: appsec | Rugged DevOps]]></title>
+  <link href="http://ruggeddevops.github.io/blog/categories/appsec/atom.xml" rel="self"/>
   <link href="http://ruggeddevops.github.io/"/>
   <updated>2013-07-31T16:52:58-05:00</updated>
   <id>http://ruggeddevops.github.io/</id>
@@ -25,11 +25,9 @@
 
 <p>The video walks you through an intro to rugged devops, how to install gauntlt and first steps at getting started.  Before you watch it go ahead and install the gauntlt gem.</p>
 
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>$ gem install gauntlt</span></code></pre></td></tr></table></div></figure>
-
-
-
+<p><code>
+$ gem install gauntlt
+</code></p>
 
 <iframe src="http://player.vimeo.com/video/54250714" width="500" height="275" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
