@@ -18,6 +18,12 @@
   z-index: -1;
   height: 550px;
 }
+.hero-text {
+  background-color: whitesmoke;
+  opacity: 0.6;
+  filter:alpha(opacity=60); /* For IE8 and earlier */
+}
+
 #hero-inner {
   font-family: 'Cantarell', sans-serif;
   margin-top: 50px;
@@ -25,15 +31,8 @@
 #hero-inner h1 {
   font-size: 60px;
   font-size: 60px;
-  background-color: whitesmoke;
-  opacity: 0.6;
-  filter:alpha(opacity=60); /* For IE8 and earlier */
 }
-#hero-inner h2 {
-  background-color: whitesmoke;
-  opacity: 0.6;
-  filter:alpha(opacity=60); /* For IE8 and earlier */
-}
+
 #hero-inner em {
   font-style: normal;
   color: #99CDE3;
