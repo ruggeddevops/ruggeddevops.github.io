@@ -4,6 +4,7 @@
         <loc>
             http://ruggeddevops.github.io/blog/2013/07/31/rugged-devops-video-from-appsecusa-with-the-at-gauntlt-crew/
         </loc>
+<<<<<<< HEAD
         <lastmod>2013-11-19T11:34:03-06:00</lastmod>
     </url>
     <url>
@@ -17,5 +18,20 @@
     <url>
         <loc>http://ruggeddevops.github.io/</loc>
         <lastmod>2013-11-19T11:34:04-06:00</lastmod>
+=======
+        <lastmod>2013-07-31T16:46:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ruggeddevops.github.io/blog/2013/08/20/vote-for-our-talk-at-sxsw/</loc>
+        <lastmod>2013-08-20T23:21:13-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ruggeddevops.github.io/blog/archives/</loc>
+        <lastmod>2013-08-20T23:21:13-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ruggeddevops.github.io/</loc>
+        <lastmod>2013-08-20T23:21:13-05:00</lastmod>
+>>>>>>> 307b208a550542bcaaa4eed7db10108dc13e393d
     </url>
 </urlset>
