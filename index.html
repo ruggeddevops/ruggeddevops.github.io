@@ -137,31 +137,12 @@
 
 <p><a href="http://twitter.com/gauntlt">@gauntlt</a>: How do you use gauntlt?</p>
 
-<p><a href="http://twitter.com/brandonprry">@brandonprry</a>: We are just getting started with gauntlt, but there are a couple of ways we started using it.</p>
-
-<p>First, I added the arachni tests to check for XSS (cross site scripting) and injection attacks.  I added some login logic to our gauntlt attacks to engage with the application past the login page.</p>
-
-<p>Second, we have started using the <a href="https://github.com/mozilla/Garmr">Garmr</a> attack to check for basic requirements on the page.  <a href="https://github.com/mozilla/Garmr">Garmr</a> is a tool by Mozilla and checks a URL to meet Mozilla&rsquo;s security policy.  You have to sort through the output a bit, but it offers some nice features.  One of the gauntlt attacks we wrote checks to make sure that there are no new login forms.  If Garmr reports one of the login forms as &lsquo;skipped&rsquo; of &lsquo;failure&rsquo; we consider that a failure.  We use this as a way to see if any new login forms have been added to an application.  As a Application Security Engineer, I want to be alerted if there is a new login page somewhere in our application or stack.</p>
-
-<p><a href="http://twitter.com/gauntlt">@gauntlt</a>: Wow, that is pretty creative to use Garmr to look for new login forms.  Great idea.  We should make that a usage pattern in Gauntlt in the future.</p>
-
-<p><a href="http://twitter.com/brandonprry">@brandonprry</a>: Thanks.</p>
-
-<p><a href="http://twitter.com/gauntlt">@gauntlt</a>: Where does gauntlt fit in your deployment pipeline?</p>
-
-<p><a href="http://twitter.com/brandonprry">@brandonprry</a>: Currently this sits at the end, however we are already working on moving this upstream.   Right now I am the gauntlt master so it hasn&rsquo;t spread within the organization yet, but that is the goal.</p>
-
-<p><a href="http://twitter.com/gauntlt">@gauntlt</a>: Some people have called gauntlt script-kiddie prevention, what do you think of that?</p>
-
-<p><a href="http://twitter.com/brandonprry">@brandonprry</a>: Well, it makes sense.  Gauntlt can hook some of the popular scanners and make sure that at least a generic scanner won&rsquo;t detect anything glaring.</p>
-
-<p>That said, Gauntlt wont find all the vulnerabilities I will find doing manual penetration testing, but I don&rsquo;t think that is the goal.  What I like about gauntlt is that I can find problems, write gauntlt attacks to replicate the issue and use that to reproduce the issue with the dev team.  I also like that it serves as a way to prevent security regressions.</p>
-
-<p><a href="http://twitter.com/gauntlt">@gauntlt</a>: Thanks for taking time to chat with us on this.</p>
-
-<p><a href="http://twitter.com/brandonprry">@brandonprry</a>: Thanks.</p>
 </div>
   
+  
+    <footer>
+      <a rel="full-article" href="/blog/2013/11/19/keeping-watch-with-gauntlt/">Read on &rarr;</a>
+    </footer>
   
 
 
