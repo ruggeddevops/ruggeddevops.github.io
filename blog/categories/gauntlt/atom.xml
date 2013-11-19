@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: gauntlt | Rugged DevOps]]></title>
+  <link href="http://ruggeddevops.github.io/blog/categories/gauntlt/atom.xml" rel="self"/>
+  <link href="http://ruggeddevops.github.io/"/>
+  <updated>2013-11-19T11:17:04-06:00</updated>
+  <id>http://ruggeddevops.github.io/</id>
+  <author>
+    <name><![CDATA[James Wickett]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rugged DevOps Video from AppSecUSA with the @Gauntlt crew]]></title>
+    <link href="http://ruggeddevops.github.io/blog/2013/07/31/rugged-devops-video-from-appsecusa-with-the-at-gauntlt-crew/"/>
+    <updated>2013-07-31T16:35:00-05:00</updated>
+    <id>http://ruggeddevops.github.io/blog/2013/07/31/rugged-devops-video-from-appsecusa-with-the-at-gauntlt-crew</id>
+    <content type="html"><![CDATA[<p>At AppSecUSA in Austin, TX there was a track devoted to Rugged DevOps and this talk featured the team from the <a href="http://gauntlt.org">gauntlt project</a>.  What is great about gauntlt is that you can start implementing a few security tests right in line with your smoke tests (or whatever you call them) and if you are already using cucumber then it will come naturally to you.</p>
+
+<!-- more -->
+
+
+<p>The video walks you through an intro to rugged devops, how to install gauntlt and first steps at getting started.  Before you watch it go ahead and install the gauntlt gem.</p>
+
+<p><code>
+$ gem install gauntlt
+</code></p>
+
+<iframe src="http://player.vimeo.com/video/54250714" width="500" height="275" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p> <p><a href="http://vimeo.com/54250714">Gauntlt: Rugged by Example &ndash; Jeremiah Shirk, Mani Tadayon, James Wickett</a> from <a href="http://vimeo.com/appsecusa">OWASP AppSec USA</a> on <a href="https://vimeo.com">Vimeo</a>.</p> <p>Title: Gauntlt: Rugged by Example<br /> <br /> Abstract<br /> <br /> &quot;Be Mean to Your Code&quot; is the concept behind the ruggedization framework called Gauntlt (pronounced like gauntlet) which aims to bring the benefits of Behaviour Driven Development to the realms of automated security testing, application hardening and ruggedization. Gauntlt is an open source ruggedization framework using cucumber and written in ruby. Gauntlt has been developed in collaboration with Netflix to fulfill the role of the &quot;Security Monkey&quot; in their Simian Army&mdash;most popularly known for the Chaos Monkey.<br /> <br /> Gauntlt is meant to be used by security experts with interest in automation as well as developers with interest in security. It can be used to deliver the results of a security audit or penetration test via failing gauntlt attacks (tests) which can in turn be added to the continuous delivery test suite. Developers know when they have resolved a particular vulnerability when gauntlt no longer reports a failure. Gauntlt can be used in regression tests to detect when a previously resolved vulnerability has been re-introduced.<br /> <br /> The creators of Gauntlt, James Wickett, Mani Tadayon and Roy Rapoport, will talk about the history of the project, current roadmap and the planned security testing tools being added to Gauntlt. As part of this talk we will do a hands on demo where we will walk the audience through getting started using gauntlt pre-built attacks and then move to writing their own gauntlt attacks. Come find out how to start being &quot;rugged by example&quot; and how to get started with Gauntlt.<br /> <br /> Note: Jeremiah Shirk is filling in for Roy Rapoport.<br /> <br /> <br /> Gauntlt is MIT Licensed and hosted on github at <a href="http://github.com/thegauntlet/gauntlt.">http://github.com/thegauntlet/gauntlt.</a><br /> <strong><strong><em><br /> <br /> Speakers<br /> <br /> Jeremiah Shirk, Integration &amp; Infrastructure Manager, Kansas State University<br /> <br /> Jeremiah is the Integration &amp; Infrastructure Manager for Kansas State University. He is working to evangelize security as an integral component of all phases of the software life cycle, from design, development, and testing, through to delivery, operations, and user interaction. He has been active in computer and network security since 2000, starting out in the trenches of firewall administration, malware research, and penetration testing. His current interests include data visualization, growing the DevOps community, and building reliable systems through infrastructure-as-code. Ask him about his ducks. <br /> <br /> Mani Tadayon, Senior Software Engineer, ZestFinance<br /> <br /> I love programming and am now learning Clojure, Lisp and Emacs. Since 2001, I&#039;ve worked in web development, constantly updating my skills to keep up with new technologies, moving from .NET to php to ruby and beyond. At the same time, I&#039;ve discovered the importance of strong foundations and continue to re-learn c, html and javascript. My educational background is broad: a bachelor&#039;s in Chinese, Japanese &amp; German from UC Berkeley and a second bachelor&#039;s in Computer Science (with a minor in Math) from CSU Hayward. Currently, I am a graduate student in Geography at CSU Northridge. My current interests are in functional programming, logic and philosophy. I hope to pursue academic research in these fields alongside my career as a programmer. I took a small step down that path with my recently published paper on the philosophy of AVP: Alien vs. Predator. <br /> <br /> James Wickett, Senior DevOps Engineer, Mentor Graphics<br /> <br /> James is an innovative thought leader in the DevOps and InfoSec communities and has a passion for helping big companies work like startups to deliver products in the cloud. He got his start in technology when he ran a Web startup company as a student at University of Oklahoma and since then has worked in environments ranging from large, web-scale enterprises to small, rapid-growth startups. As a Senior DevOps Engineer, James is working on launching cloud based-products for the Embedded Software Division of Mentor Graphics.<br /> <br /> James is a dynamic speaker on topics in cloud computing, cloud security and Rugged DevOps. He is the creator and founder of the Lonestar Application Security Conference which is the largest annual security conference in Austin, TX. He holds the following security certifications: CISSP, GWAPT, GCFW, GSEC and CCSK. <br /> <br /> </em></strong></strong><br /> Date:Thursday October 25, 2012 10:00am &ndash; 10:45am <br /> Location: AppSecUSA, Austin, TX. Hyatt Regency Hotel. Gluu Room<br /> Track: Rugged DevOps</p></p>
+]]></content>
+  </entry>
+  
+</feed>
