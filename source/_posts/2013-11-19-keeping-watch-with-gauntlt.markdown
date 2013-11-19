@@ -12,6 +12,7 @@ In a recent conversation with [@brandonprry](http://twitter.com/brandonprry) we 
 [@brandonprry](http://twitter.com/brandonprry): We are game development shop and I am an Application Security Engineer which means I do security penetration testing of our applications and backend services.  Our games talk to a lot of backend web services and web applications.
 
 [@gauntlt](http://twitter.com/gauntlt): How do you use gauntlt?
+<!-- more -->
 
 [@brandonprry](http://twitter.com/brandonprry): We are just getting started with gauntlt, but there are a couple of ways we started using it.
 
