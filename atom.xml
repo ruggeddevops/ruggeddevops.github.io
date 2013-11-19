@@ -4,7 +4,7 @@
   <title><![CDATA[Rugged DevOps]]></title>
   <link href="http://ruggeddevops.github.io/atom.xml" rel="self"/>
   <link href="http://ruggeddevops.github.io/"/>
-  <updated>2013-11-19T14:19:24-06:00</updated>
+  <updated>2013-11-19T16:56:27-06:00</updated>
   <id>http://ruggeddevops.github.io/</id>
   <author>
     <name><![CDATA[James Wickett]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Velocity EU 2013 Conference Presentation]]></title>
+    <link href="http://ruggeddevops.github.io/blog/2013/11/19/velocity-eu-2013-conference-presentation/"/>
+    <updated>2013-11-19T14:39:00-06:00</updated>
+    <id>http://ruggeddevops.github.io/blog/2013/11/19/velocity-eu-2013-conference-presentation</id>
+    <content type="html"><![CDATA[<p>In November 2013, at <a href="http://velocityconf.com/velocityeu2013/">Velocity EU 2013 Conference</a>, there was a workshop/tutorial on Gauntlt and Rugged DevOps.  This talk was a walk-thru of how to use apply Rugged DevOps principles using <a href="http://gauntlt.org">gauntlt</a>.</p>
+
+<p>Slides from the session <a href="http://velocityconf.com/velocityeu2013/public/schedule/detail/30279">Be Mean to Your Code with Gauntlt and the Rugged Way</a> are embedded below.</p>
+
+<!-- more -->
+
+
+
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/28203152" width="640" height="360" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
+
+
+<p> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/wickett/gauntlt-velocity-eu2013" title="Be Mean to Your Code with Gauntlt and the Rugged Way // Velocity EU 2013 Workshop" target="_blank">Be Mean to Your Code with Gauntlt and the Rugged Way // Velocity EU 2013 Workshop</a> </strong> from <strong><a href="http://www.slideshare.net/wickett" target="_blank">James Wickett</a></strong> </div></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Keeping Watch with Gauntlt for Rugged in Practice]]></title>
