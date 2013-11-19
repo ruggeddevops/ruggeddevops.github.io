@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* the humans responsible & colophon */
 /* humanstxt.org */
 
@@ -12,18 +11,3 @@
   Standards: HTML5, CSS3
   Components: Modernizr, jQuery
   Software: Vim
-=======
-/* the humans responsible & colophon */
-/* humanstxt.org */
-
-
-/* TEAM */
-  Owner: James Wickett
-  Site: http://ruggeddevops.org
-  Twitter: @RuggedDevOps
-
-/* SITE */
-  Standards: HTML5, CSS3
-  Components: Modernizr, jQuery
-  Software: Vim
->>>>>>> 307b208a550542bcaaa4eed7db10108dc13e393d

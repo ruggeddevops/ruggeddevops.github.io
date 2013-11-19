@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 # www.robotstxt.org/
 # http://code.google.com/web/controlcrawlindex/
 
 User-agent: *
-=======
-# www.robotstxt.org/
-# http://code.google.com/web/controlcrawlindex/
-
-User-agent: *
->>>>>>> 307b208a550542bcaaa4eed7db10108dc13e393d
