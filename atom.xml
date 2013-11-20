@@ -4,7 +4,7 @@
   <title><![CDATA[Rugged DevOps]]></title>
   <link href="http://ruggeddevops.github.io/atom.xml" rel="self"/>
   <link href="http://ruggeddevops.github.io/"/>
-  <updated>2013-11-20T11:14:25-06:00</updated>
+  <updated>2013-11-20T15:32:43-06:00</updated>
   <id>http://ruggeddevops.github.io/</id>
   <author>
     <name><![CDATA[James Wickett]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Just announced, Rugged Dev Workshop at SXSW 2014]]></title>
+    <link href="http://ruggeddevops.github.io/blog/2013/11/20/just-announced/"/>
+    <updated>2013-11-20T15:09:38-06:00</updated>
+    <id>http://ruggeddevops.github.io/blog/2013/11/20/just-announced</id>
+    <content type="html"><![CDATA[<p>Our submission to SXSW Interactive 2014 was accepted and we will be presenting on Rugged Software using Rugged Driven Development.</p>
+
+<p><img src="http://ruggeddevops.github.io/images/sxsw-2014-interactive.png" alt="SXSW Logo" /></p>
+
+<!-- more -->
+
+
+<p>The official <a href="http://sxsw.com/interactive/news/2013/even-more-extended-workshops-sxsw-browse-newest-additions-2014-lineup">press release</a> released last week and announced our session. To get a sneak peek of what we will be talking about, see the <a href="http://panelpicker.sxsw.com/vote/19539">panel picker submission</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Velocity EU 2013 Conference Presentation]]></title>
